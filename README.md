@@ -191,8 +191,4 @@ Smart-Healthcare-System/
 |---|---|
 | `VITE_BACKEND_URL` | Backend API base URL |
 
----
 
-## License
-
-This project is licensed under the MIT License.
